@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Finance.base",
+                "file": "CCNA.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Finance"
+              "title": "CCNA"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "4ec56ba231a558c5",
   "lastOpenFiles": [
-    "CCNA.base",
     "Finance.base",
+    "CCNA.base",
     "templates",
     "Untitled Folder",
     "Welcome.md",
