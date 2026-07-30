@@ -11,10 +11,13 @@
             "id": "c511d41ccbaa471e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Finance.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Finance"
             }
           }
         ]
@@ -187,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c511d41ccbaa471e",
+  "active": "4ec56ba231a558c5",
   "lastOpenFiles": [
+    "CCNA.base",
+    "Finance.base",
     "templates",
     "Untitled Folder",
-    "Untitled.base",
     "Welcome.md",
     "Test.md"
   ]
