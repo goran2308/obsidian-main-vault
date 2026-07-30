@@ -11,10 +11,10 @@
             "id": "c511d41ccbaa471e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -187,9 +187,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0125ae9b97ada4c4",
+  "active": "c511d41ccbaa471e",
   "lastOpenFiles": [
-    "Test.md",
-    "Welcome.md"
+    "templates",
+    "Untitled Folder",
+    "Untitled.base",
+    "Welcome.md",
+    "Test.md"
   ]
 }
